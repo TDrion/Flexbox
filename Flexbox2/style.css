@@ -6,7 +6,7 @@ body
 
 header
 {
-    background: linear-gradient(red, white, white, blue);;
+    background: linear-gradient(red, white, white, blue);
     color: white;
 
 }
@@ -38,8 +38,8 @@ article
 }
 
 .Odds-item {
-    background-color: orange;
-    color: black;
+    background: linear-gradient(red, white, white, blue);
+    color: orangered;
     font: lighter;
 }
 
